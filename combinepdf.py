@@ -1,6 +1,6 @@
 from PyPDF2 import PdfMerger
 
-# test to upload  to github
+# test to upload to github
 
 merger = PdfMerger()
 
