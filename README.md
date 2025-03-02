@@ -1,4 +1,4 @@
-To combine two PDF files.
+To combine two or more PDF files.
 
 For environment settings, please refer to requirements.txt.
 
